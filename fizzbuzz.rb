@@ -8,3 +8,4 @@ def fizzbuzz(int)
   else int !% 15 == 0
     put "nil"
 end
+end
