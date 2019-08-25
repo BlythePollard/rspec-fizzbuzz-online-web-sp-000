@@ -6,6 +6,6 @@ def fizzbuzz(int)
   elsif int % 15 == 0
      "Fizzbuzz"
   else int !% 15 == 0
-    puts "nil"
+    puts 
 end
 end
